@@ -29,7 +29,7 @@ I'm a computer engineering graduate with a focus on cryptography and algorithm d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufGn219&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=YusufGn219&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ I'm a computer engineering graduate with a focus on cryptography and algorithm d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-gun/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@yusufgn_57794)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-1062-972X)
-[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:yusufgn@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:yusufgit@protonmail.com)
 <!--
 **YusufGn219/YusufGn219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
