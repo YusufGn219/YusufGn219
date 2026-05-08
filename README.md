@@ -29,7 +29,7 @@ I'm a computer engineering graduate with a focus on cryptography and algorithm d
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YusufGn219&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://streak-stats.demolab.com?user=YusufGn219&theme=dark&hide_border=true" />
 </p>
 
 ---
